@@ -34,5 +34,3 @@ pnpm inject
 ## Usage
 Click the new **Image Icon** in your chat bar (next to the GIF/Sticker buttons). Select an image, and the plugin will handle the rest!
 
-## License
-GPL-3.0-or-later
